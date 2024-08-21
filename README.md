@@ -1,9 +1,16 @@
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWppcnZ4aXoydm93aDUxenllbzlmczR1amZmc3Q3ODEwcjN3YXpvNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTcnSWYZvafyhEACBO/giphy.gif" width="480"/>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/herish09/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 # 💫 About Me:
 🎓 Embarking on my 4th year of Information Technology, I view cybersecurity not just as a domain but as a manifesto. In a world rapidly turning digital, I passionately believe that cybersecurity is not just essential; it's an undeniable right. 🔐<br><br>My academic journey has provided me with a robust IT foundation, further fortified by certifications in Ethical Hacking, CISSP, and Cyber Security from SkillUP by Simplilearn. Yet, I go beyond books and certifications. I bring theories to life by cracking codes, engaging in ethical hacking, and continuously seeking to sharpen my skills. 🛡️💻<br><br>Venturing deep into cybersecurity simulations and workshops, I translate theoretical knowledge into tangible real-world applications. These endeavors reinforce a fundamental truth: in the grand tapestry of cybersecurity, evolution is the only constant. 🔄<br><br>Now, as a Microsoft Learn Student Ambassador (MLSA), I stand at the intersection of academia and the expansive professional arena. I am not just seeking to learn; I'm actively pursuing synergies, collaborations, and opportunities to not only learn from the best but to innovate, inspire, and contribute to sculpting a fortress of digital security for our collective future. 🤝🌐
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/herish09) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Empty-Hacker&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Empty-Hacker&theme=transparent&hide_border=false)<br/>
